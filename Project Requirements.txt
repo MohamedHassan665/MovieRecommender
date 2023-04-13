@@ -1,0 +1,6 @@
+Each project will include 4 main requirements:
+1. Data preprocessing
+2. Features extraction.
+3. Model training and testing
+4. Results visualization.
+Attention!: Highest project accuracy will be rewarded
